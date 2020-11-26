@@ -1,0 +1,4 @@
+Использованные библиотеки:
+1. sys
+2. PyQt5.QtWidgets
+3. sqlite3
